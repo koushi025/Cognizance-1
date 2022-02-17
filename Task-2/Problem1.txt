@@ -1,0 +1,12 @@
+STEP 1: start 
+STEP 2: Declare variable a,b
+STEP 3: Read variable n from user
+STEP 4: store b in a
+STEP 5: while a>0
+5.1 a=a-3
+5.2
+STEP 6: if a==0
+6.1 print "the input number is divisible by 3"
+STEP 7: else 
+7.1 print "the input number is not divisible by 3"
+STEP 8: stop
