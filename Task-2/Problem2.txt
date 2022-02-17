@@ -1,0 +1,12 @@
+STEP 1: Start
+STEP 2: Declare variable x1,x2,x3,i, n
+STEP 3: Initialize variable x1=0, x2=1,x3=0, i=2  
+STEP 4: Read n from user  
+STEP 5: Print x1 and x2  
+STEP 6: while i<=n           
+6.1 x3=x1+x2           
+6.2 x1=x2
+6.3 x2=x3    
+6.4 i=i+1
+6.5 print x3
+STEP 7:when while is false it Stop
